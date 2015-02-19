@@ -4,5 +4,7 @@
     <string name="app_name">GanHuMAP</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="welcome_intro">歡迎來到幹乎地圖!</string>
 
 </resources>
